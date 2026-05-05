@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Ich lerne, wie man mit Technikumgeht<br>
+🔭 Ich lerne, wie man mit Technik umgeht<br>
 ✨ Programmieren habe ich 2023 angefangen zu lernen.<br>
 
 
