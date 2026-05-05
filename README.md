@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭Ich lerne, wie man mit Technikumgeht.t<br>
-✨ Programmieren lernen habe ich 2023 angefangen zu lernen.<br>
+🔭Ich lerne, wie man mit Technikumgeht<br>
+✨ Programmieren habe ich 2023 angefangen zu lernen.<br>
 
 
 # 💻 Tech Stack:
